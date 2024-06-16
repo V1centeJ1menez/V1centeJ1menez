@@ -7,9 +7,9 @@
   <br>
   <br>
 </p>
-<p align="center">
+<!---<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d4NmxibWVrbmlva2d0NHlrbHVyNTFueGo3M2EyZXAwbzM5cnJ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n5KTUA0UTJxMVsMFoK/giphy.webp">
-</p>
+</p> --->
 
 ------------
 <!---

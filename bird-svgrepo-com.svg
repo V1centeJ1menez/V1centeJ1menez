@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<style>
+  .fadeIn {
+    opacity: 0;
+    animation: fadeIn 2s linear 2.8s forwards;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
 
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg class="fadeIn" width="800px" height="800px" viewBox="0 -4.25 44.02 44.02" xmlns="http://www.w3.org/2000/svg">
@@ -79,18 +94,4 @@
   </g>
 </svg>
 
-<style>
-  .fadeIn {
-    opacity: 0;
-    animation: fadeIn 2s linear 2.8s forwards;
-  }
 
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-</style>

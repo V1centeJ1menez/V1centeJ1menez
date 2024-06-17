@@ -6,8 +6,8 @@
     <br><br>#C++, #Python</samp> 
   <br>
   <br>
-  <img align="left" width="80px"  src="coffee-svgrepo-com.svg"/>
-  <img align="right" width="80px"  src="branch-svgrepo-com.svg"/>
+  <img align="right" width="80px"  src="coffee-svgrepo-com.svg"/>
+  <img align="left" width="80px"  src="laptop-svgrepo-com.svg"/>
 </p>
 
 <!---<p align="center">

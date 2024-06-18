@@ -7,7 +7,7 @@
   <br>
   <br>
 
- <img align="center" width="100px"  src="dog-lounging-svgrepo-com.svg"/>
+ <img align="center" width="100px"  src="coffee1-svgrepo-com.svg"/>
  <!--- <img align="right" width="80px"  src="coffee-svgrepo-com.svg"/>
   
   <img align="left" width="80px"  src="laptop-svgrepo-com.svg"/> --->

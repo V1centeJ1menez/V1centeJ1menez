@@ -1,7 +1,6 @@
 <p align="center">
   <br>
   <br>
-  <br>
   <samp>Hola, me llamo <a href="https://www.youtube.com/watch?v=IphTbVpGv2s">Vicente Jiménez</a>.<br> Soy estudiante de Ing. Civil Informatica, UTFSM SJ.
   
   <br>
